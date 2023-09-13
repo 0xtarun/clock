@@ -14,7 +14,7 @@ function update(){
         hours = formatZeroes(hours);
         minutes = formatZeroes(minutes);
         seconds = formatZeroes(seconds);
-        return `${hours}:${minutes}:${seconds}:${amOrPm}`;
+        return `${hours}:${minutes}:${seconds} ${amOrPm}`;
     }
 
     function formatZeroes(time){
