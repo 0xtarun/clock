@@ -2,6 +2,7 @@ body{
     color : rgb(255, 255, 255);
     background-color: rgb(2, 0, 72);
     margin:0px;
+    background-attachment : fixed;
     
 
 }
