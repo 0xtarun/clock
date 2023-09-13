@@ -1,0 +1,19 @@
+body{
+    color : rgb(255, 255, 255);
+    background-color: black;
+    margin:0px;
+
+}
+
+label{
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(17, 38, 82);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: auto;
+
+}
+
